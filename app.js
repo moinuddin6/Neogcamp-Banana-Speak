@@ -2,12 +2,14 @@
 // alert("This script is workk");
 
 // input 
-var username = prompt("Give me username");
+// var username = prompt("Give me username");
 
-// processing 
+// // processing 
 
-var welcomeMessage = "This script is working " + username;
+// var welcomeMessage = "This script is working " + username;
 
-// output
+// // output
 
-alert(welcomeMessage);
+// alert(welcomeMessage);
+
+// I write code for neogcamp exercise then running anfd after running this i comment it out . 
