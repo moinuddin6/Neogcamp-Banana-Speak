@@ -16,6 +16,9 @@
 
 var btnTranslate = document.querySelector("#btn-translate");
 var txtInput = document.querySelector("#txt-input");
+var outputDiv = document.querySelector("#output");
+
+//  outputDiv.innerText = "I am Moin"  // if you want to something then use .innertext with selector.
 
 console.log(txtInput);
 
