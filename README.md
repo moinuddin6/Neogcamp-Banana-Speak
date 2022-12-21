@@ -1,6 +1,10 @@
 # Neogcamp-Banana-Speak
 lesson 4- Vanilla JS for beignners
 
+# Introduction:-
+
+This is a Translator App which translate your english language in minion or banana talk .
+
 # Tech Stack Used:-
 
 1. HTML
